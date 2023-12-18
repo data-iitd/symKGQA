@@ -352,7 +352,7 @@ def get_entities_concepts(program):
         return None, None
 
 
-f = open("data/KQAPro.IID/val.json")
+f = open("data/KQAPro/val.json")
 data = json.load(f)
 f.close()
 

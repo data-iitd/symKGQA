@@ -168,7 +168,7 @@ Test Example:
 Question: '''
 
 
-f = open("data/WebQSP/data/WebQSP.test.json")
+f = open("data/WebQSP/WebQSP.test.json")
 data = json.load(f)['Questions']
 f.close()
 
