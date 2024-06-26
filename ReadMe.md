@@ -1,5 +1,18 @@
 Codebase for "SymKGQA: Few-Shot Knowledge Graph Question Answering via Symbolic Program Generation and Execution"
 
+## Citation
+```
+@inproceedings{
+anonymous2024symkgqa,
+title={Sym{KGQA}: Few-Shot Knowledge Graph Question Answering via Symbolic Program Generation and Execution},
+author={Anonymous},
+booktitle={The 62nd Annual Meeting of the Association for Computational Linguistics},
+year={2024},
+url={https://openreview.net/forum?id=nwlIPR4NwR}
+}
+```
+
+
 # KoPL Generation and Execution
 
 This repository contains tools for generating and executing KoPL programs across various datasets. Below are the details of the folder structure and instructions for running the scripts.
